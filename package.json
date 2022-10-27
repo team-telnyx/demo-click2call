@@ -1,0 +1,22 @@
+{
+  "name": "click-to-call",
+  "version": "1.0.0",
+  "description": "Click to Call Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "author": "Dylan Chopra",
+  "license": "ISC",
+  "dependencies": {
+    "@telnyx/react-client": "^1.0.1",
+    "@telnyx/webrtc": "^2.8.2",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "telnyx": "^1.23.0"
+  }
+}

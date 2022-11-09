@@ -25,8 +25,8 @@ export default class App extends React.Component {
     let newState = determineNewState(this.state);
     if (newState.callState === 'connecting'){
       TelnyxClientObj.currentCall = TelnyxClientObj.client.newCall({
-        destinationNumber: '+14075758614',
-        callerNumber: '+14076044394',
+        destinationNumber: 'DESTINATION_NUMBER',
+        callerNumber: 'FROM_NUMBER',
         remoteElement: 'remoteMedia'
       });
     }else if (newState.callState === 'ready'){

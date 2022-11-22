@@ -1,5 +1,4 @@
-# demo-voicesdk-click2call
-Click to call demo 
+# Click to Call Demo 
 
 To get started you will need to create a credential based connection in your Telnyx portal.
 

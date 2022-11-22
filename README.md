@@ -11,6 +11,8 @@ TELNYX_API_KEY=KEYxxx
 CONNECTION_ID=1234567890
 ```
 
+The only change to the code you will need to make is in the file located at -> demo-click2call/client/src/components/App.js on lines 28 and 29, where you will update the values for destinationNumber and callerNumber
+
 Then you will run the following commands in the root project folder, and then in cd into the client folder and run the same commands
 
 ```

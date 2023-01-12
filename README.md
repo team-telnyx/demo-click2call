@@ -1,6 +1,6 @@
 # Click to Call Demo 
 
-[![Watch the video](https://imgur.com/5WGLgJ0)](https://www.loom.com/share/77746cccacb14ffbaf5f5420a71db24a)
+[![Watch the video](https://i.imgur.com/5WGLgJ0.png)](https://www.loom.com/share/77746cccacb14ffbaf5f5420a71db24a)
 
 To get started you will need to create a credential based connection in your Telnyx portal.
 

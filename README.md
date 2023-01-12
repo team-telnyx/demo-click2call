@@ -1,5 +1,7 @@
 # Click to Call Demo 
 
+[![Watch the video](https://imgur.com/5WGLgJ0)](https://www.loom.com/share/77746cccacb14ffbaf5f5420a71db24a)
+
 To get started you will need to create a credential based connection in your Telnyx portal.
 
 You will also need to create a .env file in this projects root folder and include your Telnyx API key and a credential connection ID. A sample .env looks like this:
